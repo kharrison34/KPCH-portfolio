@@ -246,7 +246,7 @@ h1,
 h3,
 h4 {
   text-transform: lowercase;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'roboto', sans-serif;
 }
 
 h3 {
@@ -476,7 +476,7 @@ h2 {
   width: 55px;
   height: 55px;
   border-radius: 50%;
-  background-color: #62239a;
+  background-color: #58b981;
   -webkit-transition: 0.3s all;
   transition: 0.3s all;
   cursor: pointer;
@@ -1047,7 +1047,7 @@ nav ul li {
 }
 
 .contact {
-  background: #62239a;
+  background: #4042d1;
   background-size: cover;
   background-position: bottom center;
   color: #fff;
